@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.settings": true
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
